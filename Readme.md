@@ -12,8 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oguzutku1745&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzutku1745&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=oguzutku1745&icon=0&color=10)](https://visitcount.itsvg.in)
