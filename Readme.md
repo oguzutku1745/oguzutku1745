@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Scalable Contract Interactions<br><br>🌱 I’m currently learning Tailwind CSS<br><br>👯 I cooperate with METU Blockchain Community<br><br>📝 You can follow me on [X](https://twitter.com/CKyaTzu)<br><br>📫 You can reach me via [e-mail](mailto:oguzutku1745@gmail.com)
+<br>📝 You can follow me on [X](https://twitter.com/CKyaTzu)<br><br>📫 You can reach me via [e-mail](mailto:oguzutku1745@gmail.com)
 
 
 ## 🌐 Socials:
